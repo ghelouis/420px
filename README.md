@@ -10,5 +10,5 @@ Image manipulations powered by the imagick library
   * Associate tags to an image
   * Search by tags
   * Display random image
-  * Generate GIF from images in you gallery
+  * Generate GIF from images in your gallery
   
