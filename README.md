@@ -1,5 +1,6 @@
 # 420px
 EPITA School project - PHP/MySQL 500px clone
+
 Image manipulations powered by the imagick library
 
 ## Features:
